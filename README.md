@@ -97,12 +97,7 @@ El análisis combina la **interpretación de modelos lineales** con la **visuali
 
 ---
 
-## Uso
-1. Clonar el repositorio:
-```bash
-git clone <tu_repositorio_url>
-
-Autor
+##Autor
 
 Neyker Ochoa
 
